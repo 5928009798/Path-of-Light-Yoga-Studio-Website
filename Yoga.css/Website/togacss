@@ -1,0 +1,8 @@
+background color #F5F5F5
+text color #3F2860
+Verdana
+<header> background color #9BC1C2 </header>
+<h1> 200% line height </h1>
+<nav> eliminate default underline </nav>
+<b> italic </b>
+<footer> #9BC1C2 background color , font .60em , iatlic , centered text </footer>
